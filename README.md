@@ -35,5 +35,5 @@ fn main() -> std::io::Result<()> {
 Эта библиотека распространяется под лицензией BSD 2-Clause. См. [LICENSE](LICENSE) для деталей.
 
 ## Авторы и вклад
- - [@username](https://github.com/BigBrainsClub) - автор и разработчик
+ - [@BigBrainsClub](https://github.com/BigBrainsClub) - автор и разработчик
  - PR приветствуется! (Буду рад критике и улучшению данной библиотеки)
