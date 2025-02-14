@@ -1,0 +1,13 @@
+[package]
+name = "reader_vec_lines"
+version = "0.1.0"
+edition = "2021"
+authors = ["BigBrainsClub <90547216+bigbrainsclub@users.noreply.github.com>"]
+description = "Библиотека для быстрого чтения векторов строк, использует SmallVec для уменьшения алокации и занимаемой памяти"
+license = "BSD 2-Clause"
+repository = "https://github.com/BigBrainsClub/RVLF"
+categories = ["reading", "file"]
+readme = "README.md"
+
+[dependencies]
+smallvec = "1.13.2"
