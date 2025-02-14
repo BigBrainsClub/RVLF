@@ -1,5 +1,5 @@
 [package]
-name = "reader_vec_lines"
+name = "reader_vlf"
 version = "0.1.0"
 edition = "2021"
 authors = ["BigBrainsClub <90547216+bigbrainsclub@users.noreply.github.com>"]
